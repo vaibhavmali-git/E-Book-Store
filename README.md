@@ -1,8 +1,3 @@
-![Screenshot (295)](https://github.com/VaibhavMali001/E-Book-Store/assets/139566561/3c1dd771-4394-4cbe-906c-b9ee7c37e20e)
-![Screenshot (294)](https://github.com/VaibhavMali001/E-Book-Store/assets/139566561/96cca33f-0c5b-4a7f-afae-1e87daa5834a)
-![Screenshot (293)](https://github.com/VaibhavMali001/E-Book-Store/assets/139566561/4fa06d70-46d1-40b2-b4cb-980505f8e36c)
-![Screenshot (292)](https://github.com/VaibhavMali001/E-Book-Store/assets/139566561/fb0f46aa-b167-4f5b-9218-34ef60bcf88b)
-![Screenshot (291)](https://github.com/VaibhavMali001/E-Book-Store/assets/139566561/ea333642-e9d8-46c7-9374-15c4f09524f8)
 # E-Book-Store
 Responsive e-book store website. Featuring a multi-role login system, intuitive shopping cart, and streamlined checkout process, this project showcases a complete online bookstore experience. Developed with HTML, CSS, JavaScript, PHP, and MySQLi.
 
