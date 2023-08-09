@@ -9,8 +9,13 @@ The system consists of user-friendly features and functionalities.
 This project was developed using the following:
 
 • XAMPP
+
 • PHP version >= 7
+
 • MySQL Database
+
 • HTML
+
 • CSS
+
 • JavaScript
