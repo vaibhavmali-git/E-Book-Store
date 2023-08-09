@@ -6,7 +6,7 @@ This simple project is a Simple Online Book Store System. This is a web-based ap
 The system consists of user-friendly features and functionalities.
 
 
-This project was developed using the following:
+𝐓𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐰𝐚𝐬 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐮𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠:
 
 • XAMPP
 
